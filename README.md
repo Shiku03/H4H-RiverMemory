@@ -14,5 +14,5 @@ The system will comprise of:
 5. External APIs to spatial databases and weather databases
 
 ## Current Progress
-[x] Defined the core problem statement and system architecture.
+[x] Defined the core problem statement and system architecture.\
 [x] Initialized the repository
